@@ -1,0 +1,6 @@
+google.com
+kiit.ac.in
+php.net
+yahoo.com
+exam.in
+ccode.co.in

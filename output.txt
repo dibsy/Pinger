@@ -1,0 +1,22 @@
+Pinger v1.1 c0ded by dibyendu
+Checking if google.com is up....
+Host is up
+-------------------------------------------------------------
+Checking if kiit.ac.in is up....
+Host is up
+-------------------------------------------------------------
+Checking if php.net is up....
+Host is up
+-------------------------------------------------------------
+Checking if yahoo.com is up....
+Host is up
+-------------------------------------------------------------
+Checking if exam.in is up....
+ping: unknown host exam.in
+Host is down
+-------------------------------------------------------------
+Checking if ccode.co.in is up....
+ping: unknown host ccode.co.in
+Host is down
+-------------------------------------------------------------
+
